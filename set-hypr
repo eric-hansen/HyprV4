@@ -52,9 +52,6 @@ install_stage=(
     slurp 
     thunar 
     btop
-    firefox
-    thunderbird
-    mpv
     pamixer 
     pavucontrol 
     brightnessctl 
